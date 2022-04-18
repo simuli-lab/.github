@@ -1,1 +1,1 @@
-Testing
+Simuli is a one-stop IoT Education solution providing easy-to-use virtual simulation software solutions for students, academicians and hobbyists that reduce dependence on  hardware-based labs. Now you can access an IoT Lab right within your browser. Simuli allows for both remote teaching, rapid device prototyping and sensor evaluation  before ordering, resulting in a less resource-intensive process. Headquartered in Switzerland, Simuli is a globally distributed team across seven countries.
